@@ -1,6 +1,8 @@
 # ocr_4_poker
 
 
+Usage:
+
 1. set LD_LIBRARY_PATH = $LD_LIBRARY_PATH:/where to put *.so
 2. run ./run.sh
 3. If *.so was not supported, follow the steps below to compile tensorflow
